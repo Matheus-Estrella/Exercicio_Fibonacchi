@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exercicio_N_Fibonacchi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8ba56497216da2ae4f134f19fe8c2d224ebc07d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae4fbabd649067ac824fe0d08707953068c87942")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exercicio_N_Fibonacchi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exercicio_N_Fibonacchi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
