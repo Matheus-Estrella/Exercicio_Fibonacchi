@@ -1,0 +1,15 @@
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_N_Fibonacchi\Exercicio_N_Fibonacchi\bin\Debug\net6.0\Exercicio_N_Fibonacchi.exe
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_N_Fibonacchi\Exercicio_N_Fibonacchi\bin\Debug\net6.0\Exercicio_N_Fibonacchi.deps.json
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_N_Fibonacchi\Exercicio_N_Fibonacchi\bin\Debug\net6.0\Exercicio_N_Fibonacchi.runtimeconfig.json
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_N_Fibonacchi\Exercicio_N_Fibonacchi\bin\Debug\net6.0\Exercicio_N_Fibonacchi.dll
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_N_Fibonacchi\Exercicio_N_Fibonacchi\bin\Debug\net6.0\Exercicio_N_Fibonacchi.pdb
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_N_Fibonacchi\Exercicio_N_Fibonacchi\obj\Debug\net6.0\Exercicio_N_Fibonacchi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_N_Fibonacchi\Exercicio_N_Fibonacchi\obj\Debug\net6.0\Exercicio_N_Fibonacchi.AssemblyInfoInputs.cache
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_N_Fibonacchi\Exercicio_N_Fibonacchi\obj\Debug\net6.0\Exercicio_N_Fibonacchi.AssemblyInfo.cs
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_N_Fibonacchi\Exercicio_N_Fibonacchi\obj\Debug\net6.0\Exercicio_N_Fibonacchi.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_N_Fibonacchi\Exercicio_N_Fibonacchi\obj\Debug\net6.0\Exercicio_N_Fibonacchi.sourcelink.json
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_N_Fibonacchi\Exercicio_N_Fibonacchi\obj\Debug\net6.0\Exercicio_N_Fibonacchi.dll
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_N_Fibonacchi\Exercicio_N_Fibonacchi\obj\Debug\net6.0\refint\Exercicio_N_Fibonacchi.dll
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_N_Fibonacchi\Exercicio_N_Fibonacchi\obj\Debug\net6.0\Exercicio_N_Fibonacchi.pdb
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_N_Fibonacchi\Exercicio_N_Fibonacchi\obj\Debug\net6.0\Exercicio_N_Fibonacchi.genruntimeconfig.cache
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_N_Fibonacchi\Exercicio_N_Fibonacchi\obj\Debug\net6.0\ref\Exercicio_N_Fibonacchi.dll
